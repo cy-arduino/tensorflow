@@ -12,9 +12,9 @@ android {
         versionName "1.0"
 
         // Remove this block.
-        jackOptions {
-            enabled true
-        }
+        //jackOptions {
+        //    enabled true
+        //}
     }
     lintOptions {
         abortOnError false
